@@ -2,15 +2,11 @@
 
 Học kỳ 1, Năm học 2023-2024
 
-**MSSV 1** : 
+**MSSV 1** : B2014850
 
-**Họ tên SV 1**:
+**Họ tên SV 1**: Lê Phước Lợi
 
-**MSSV 2**:
+**Lớp học phần**: CT484
 
-**Họ tên SV 2**:
-
-**Lớp học phần**:
-
-**Tên dự án**:
+**Tên dự án**: Bán đồ ăn
 
